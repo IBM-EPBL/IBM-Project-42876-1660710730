@@ -3,3 +3,4 @@ Smart Waste Management System For Metropolitan Cities
 Assignment - ashokp2802
 Assignment-Dinesh15052002
 Assignment-jeyachandhirans3 
+Assignment-sumimurali2001  
